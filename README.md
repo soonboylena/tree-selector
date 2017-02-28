@@ -8,7 +8,7 @@
   {"text":"内容3","value":"56ac2e6dd5da72024bd5360c"
     ,subNode:[
         {"text":"内容3.1","value":"56ac2e6dd5da72024bd53631"},
-        {"text":"内容3.2","value":"56ac2e6dd5da72024bd53632"},
+        {"text":"内容3.2","value":"56ac2e6dd5da72024bd53632"}
     ]
   }，
 ]
